@@ -161,11 +161,12 @@ pubspec.yaml
 
 Tambahkan screenshot aplikasi pada folder `assets/images`.
 
-```
-![Home Screen](assets/images/home.png)
-![Product Page](assets/images/product.png)
-![Chat Feature](assets/images/chat.png)
-```
+
+![alt text](https://github.com/Jimmy-hubb/Mobile-Cuan-Space-Semester-4/blob/main/assets/WhatsApp%20Image%202026-03-02%20at%2020.06.57.jpeg?raw=true)
+
+![alt text](https://github.com/Jimmy-hubb/Mobile-Cuan-Space-Semester-4/blob/main/assets/WhatsApp%20Image%202026-03-06%20at%2019.03.08.jpeg?raw=true)
+
+![alt text](https://github.com/Jimmy-hubb/Mobile-Cuan-Space-Semester-4/blob/main/assets/WhatsApp%20Image%202026-03-06%20at%2019.03.11.jpeg?raw=true)
 
 ---
 
